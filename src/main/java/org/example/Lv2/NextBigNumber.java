@@ -17,7 +17,6 @@ public class NextBigNumber {
                 break;
             }
         }
-
         answer = n;
 
         return answer;
